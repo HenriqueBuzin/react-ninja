@@ -1,2 +1,2 @@
-# react-ninja
- Curso de React Ninja
+# angra-project
+ Projeto Angra
